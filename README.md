@@ -1,6 +1,5 @@
 per-nilsson.github.io
 =====================
 
-Github Pages (sproutlab.com)
+Github Pages for http://www.sproutlab.com
 
-This is the sixth freaking time I try to create a Github Pages repo.
