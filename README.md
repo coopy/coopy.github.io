@@ -1,5 +1,6 @@
 per-nilsson.github.io
 =====================
 
-Github Pages for http://www.sproutlab.com
+[![Build Status](https://travis-ci.org/coopy/coopy.github.io.svg)](https://travis-ci.org/coopy/coopy.github.io)
 
+Github Pages for http://www.sproutlab.com
