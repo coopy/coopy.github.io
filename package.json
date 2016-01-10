@@ -1,0 +1,22 @@
+{
+  "name": "coopy.github.io",
+  "version": "1.0.0",
+  "description": "sproutlab.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/validate-html.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coopy/coopy.github.io.git"
+  },
+  "author": "Per Nilsson <per@sproutlab.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coopy/coopy.github.io/issues"
+  },
+  "homepage": "https://github.com/coopy/coopy.github.io#readme",
+  "devDependencies": {
+    "w3cjs": "^0.3.0"
+  }
+}
